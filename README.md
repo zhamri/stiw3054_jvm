@@ -20,3 +20,8 @@
 1. https://www.baeldung.com/java-profilers
 1. https://www.ej-technologies.com/products/jprofiler/overview.html
 1. https://newrelic.com/
+
+## Java Setting
+```
+/Library/Java/JavaVirtualMachines/jdk-11.0.8.jdk/Contents/Home/bin
+```
