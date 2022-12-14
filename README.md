@@ -25,3 +25,6 @@
 ```
 /Library/Java/JavaVirtualMachines/jdk-11.0.8.jdk/Contents/Home/bin
 ```
+
+## Video
+1. [Exploring Java Thread using VisualVM](https://youtu.be/VY0Ton797ks)
