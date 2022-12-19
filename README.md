@@ -28,3 +28,4 @@
 
 ## Video
 1. [Exploring Java Thread using VisualVM](https://youtu.be/VY0Ton797ks)
+1. [Visualize Heap Memory and Garbage Collection using VisualVM](https://youtu.be/rxkBBoSoHGw)
